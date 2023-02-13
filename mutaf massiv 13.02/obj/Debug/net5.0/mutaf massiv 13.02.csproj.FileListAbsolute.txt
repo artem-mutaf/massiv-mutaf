@@ -1,0 +1,16 @@
+D:\Мутаф\massiv-mutaf\mutaf massiv 13.02\bin\Debug\net5.0\mutaf massiv 13.02.exe
+D:\Мутаф\massiv-mutaf\mutaf massiv 13.02\bin\Debug\net5.0\mutaf massiv 13.02.deps.json
+D:\Мутаф\massiv-mutaf\mutaf massiv 13.02\bin\Debug\net5.0\mutaf massiv 13.02.runtimeconfig.json
+D:\Мутаф\massiv-mutaf\mutaf massiv 13.02\bin\Debug\net5.0\mutaf massiv 13.02.runtimeconfig.dev.json
+D:\Мутаф\massiv-mutaf\mutaf massiv 13.02\bin\Debug\net5.0\mutaf massiv 13.02.dll
+D:\Мутаф\massiv-mutaf\mutaf massiv 13.02\bin\Debug\net5.0\ref\mutaf massiv 13.02.dll
+D:\Мутаф\massiv-mutaf\mutaf massiv 13.02\bin\Debug\net5.0\mutaf massiv 13.02.pdb
+D:\Мутаф\massiv-mutaf\mutaf massiv 13.02\obj\Debug\net5.0\mutaf massiv 13.02.csprojAssemblyReference.cache
+D:\Мутаф\massiv-mutaf\mutaf massiv 13.02\obj\Debug\net5.0\mutaf massiv 13.02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мутаф\massiv-mutaf\mutaf massiv 13.02\obj\Debug\net5.0\mutaf massiv 13.02.AssemblyInfoInputs.cache
+D:\Мутаф\massiv-mutaf\mutaf massiv 13.02\obj\Debug\net5.0\mutaf massiv 13.02.AssemblyInfo.cs
+D:\Мутаф\massiv-mutaf\mutaf massiv 13.02\obj\Debug\net5.0\mutaf massiv 13.02.csproj.CoreCompileInputs.cache
+D:\Мутаф\massiv-mutaf\mutaf massiv 13.02\obj\Debug\net5.0\mutaf massiv 13.02.dll
+D:\Мутаф\massiv-mutaf\mutaf massiv 13.02\obj\Debug\net5.0\ref\mutaf massiv 13.02.dll
+D:\Мутаф\massiv-mutaf\mutaf massiv 13.02\obj\Debug\net5.0\mutaf massiv 13.02.pdb
+D:\Мутаф\massiv-mutaf\mutaf massiv 13.02\obj\Debug\net5.0\mutaf massiv 13.02.genruntimeconfig.cache
