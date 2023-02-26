@@ -1,0 +1,15 @@
+C:\Users\artik\source\repos\20.02 mutaf\bin\Debug\net6.0\20.02 mutaf.exe
+C:\Users\artik\source\repos\20.02 mutaf\bin\Debug\net6.0\20.02 mutaf.deps.json
+C:\Users\artik\source\repos\20.02 mutaf\bin\Debug\net6.0\20.02 mutaf.runtimeconfig.json
+C:\Users\artik\source\repos\20.02 mutaf\bin\Debug\net6.0\20.02 mutaf.dll
+C:\Users\artik\source\repos\20.02 mutaf\bin\Debug\net6.0\20.02 mutaf.pdb
+C:\Users\artik\source\repos\20.02 mutaf\obj\Debug\net6.0\20.02 mutaf.csproj.AssemblyReference.cache
+C:\Users\artik\source\repos\20.02 mutaf\obj\Debug\net6.0\20.02 mutaf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artik\source\repos\20.02 mutaf\obj\Debug\net6.0\20.02 mutaf.AssemblyInfoInputs.cache
+C:\Users\artik\source\repos\20.02 mutaf\obj\Debug\net6.0\20.02 mutaf.AssemblyInfo.cs
+C:\Users\artik\source\repos\20.02 mutaf\obj\Debug\net6.0\20.02 mutaf.csproj.CoreCompileInputs.cache
+C:\Users\artik\source\repos\20.02 mutaf\obj\Debug\net6.0\20.02 mutaf.dll
+C:\Users\artik\source\repos\20.02 mutaf\obj\Debug\net6.0\refint\20.02 mutaf.dll
+C:\Users\artik\source\repos\20.02 mutaf\obj\Debug\net6.0\20.02 mutaf.pdb
+C:\Users\artik\source\repos\20.02 mutaf\obj\Debug\net6.0\20.02 mutaf.genruntimeconfig.cache
+C:\Users\artik\source\repos\20.02 mutaf\obj\Debug\net6.0\ref\20.02 mutaf.dll
